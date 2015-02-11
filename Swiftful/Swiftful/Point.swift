@@ -1,6 +1,6 @@
 //
 //  Point.swift
-//  wishful
+//  Swiftful
 //
 //  Created by Simon Richardson on 11/02/2015.
 //
